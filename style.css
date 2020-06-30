@@ -1,0 +1,20 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.name-highlight {
+    color: #FFA500;
+}
+.top-content {
+    margin-left: 161px;
+    margin-top: 84px;
+    font-size: 26px;
+    font-weight: bold;
+   
+}
+h3 {
+    font-size:25px;
+}
+p {
+    font-size: 20px;
+}
